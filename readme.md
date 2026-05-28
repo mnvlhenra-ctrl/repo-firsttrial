@@ -15,6 +15,9 @@ git add readme.md # <----- tapi ini cara repot
 git add .
 git commit -m "menambahkan readme.md"
 
+## kalau misalnya ada salah message commit
+git commit -m "message barunya apa" --amend
+
 ''' sh
 git status
 

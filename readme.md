@@ -25,3 +25,7 @@ git status
 
 ''' sh
 git log
+
+git remote add origin https://github.com/mnvlhenra-ctrl/repo-firsttrial.git
+git branch -M main
+git push -u origin main
